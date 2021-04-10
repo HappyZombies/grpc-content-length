@@ -1,0 +1,17 @@
+{
+  "name": "grpc-content-length",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@grpc/grpc-js": "^1.2.12",
+    "@grpc/proto-loader": "^0.6.0",
+    "grpc": "^1.24.6",
+    "object-sizeof": "^1.6.1"
+  }
+}
